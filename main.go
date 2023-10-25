@@ -1,7 +1,5 @@
 package main
 
-import "github.com/ngonzalezo/godesdecero/iteraciones"
-
 func main() {
 	/*estado, texto := variables.ConviertoaTexto(1588)
 	fmt.Println(estado)
@@ -26,5 +24,9 @@ func main() {
 	fmt.Println("Valor 1 : ", valor1)
 	fmt.Println("Valor 2", valor2)*/
 	//teclado.IngresosNumeros()
-	iteraciones.Iterar()
+	//iteraciones.Iterar()
+	//fmt.Println(ejercicios.Multiplicador())
+	//files.GrabaTabla()
+	//files.SumaTabla()
+	//files.LeerArchivo()
 }
