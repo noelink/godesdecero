@@ -1,5 +1,9 @@
 package main
 
+import (
+	"github.com/ngonzalezo/godesdecero/mapas"
+)
+
 func main() {
 	/*estado, texto := variables.ConviertoaTexto(1588)
 	fmt.Println(estado)
@@ -29,4 +33,11 @@ func main() {
 	//files.GrabaTabla()
 	//files.SumaTabla()
 	//files.LeerArchivo()
+	//funciones.Calculos()
+	//funciones.LlamarClosure()
+	//funciones.Exponencia(2)
+	//arreglos_slices.MuestroArreglos()
+	//arreglos_slices.MuestroSlice()
+	//arreglos_slices.Capacidad()
+	mapas.MostrarMapas()
 }
